@@ -1160,7 +1160,7 @@ how to remove the virtical space around the range input in IE*/
     justify-content: unset !important;
   }
   .m3sl_1{
-    margin-left: 30px !important;
+    width: 330px !important;
   }
 }
 
