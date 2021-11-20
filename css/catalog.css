@@ -1040,7 +1040,7 @@ how to remove the virtical space around the range input in IE*/
 }
 @media(max-width: 588px){
   .uslug_span span{
-    font-size: 18px;
+    font-size: 17px;
     width: 150px;
   }
   .uslug_a{
