@@ -2056,7 +2056,7 @@ footer{
     border-radius: 5px;
     font-size: 18px;
     cursor: pointer;
-    color: black !important;
+    color: black;
 }
 .deliver_cal:hover{
     background: #3B3B3B;
